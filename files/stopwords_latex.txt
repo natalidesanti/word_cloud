@@ -1,4 +1,5 @@
 alpha
+textsc
 beta
 chi
 delta
