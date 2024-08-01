@@ -2,15 +2,22 @@
 
 This repo is a simple guide about how to create a **word cloud** from a `tex` file
 
-You will find the examples of my **master dissertation** and **PhD thesis** converted into pretty __word clouds__ and the idea is that you can build your own, just changing the `tex` and `stopwords`` files!
+You will find the examples of my **master dissertation** and **PhD thesis** converted into pretty __word clouds__ and the idea is that you can build your own, just changing the `tex` and `stopwords` files!
 
 ## Requirements
 
 This repo is built using the following `python` libraries:
+
 * `numpy`
 * `matplotlib`
 * `PIL`
 * `wordcloud`
+
+## Contents
+
+* `word_cloud.ipynb`: code notebook
+* `stopwords*.txt`: file with a list of words to remove from the image
+* `*.png`: images to use as background
 
 ## Examples
 
